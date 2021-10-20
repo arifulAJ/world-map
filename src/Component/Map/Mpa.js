@@ -22,6 +22,7 @@ const Mpa = () => {
     return (
         <div>
             <div id="map"></div>
+         
         </div>
     );
 };
