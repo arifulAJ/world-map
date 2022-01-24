@@ -1,18 +1,24 @@
-# Getting Started with Create React App
+# Website mockup with different devices
+<img src="https://i.ibb.co/dWQQs1L/Screenshot-25.png">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# This is the World map  web application .
+## techonology are uses 
+<li> JavaScript</li>
+<li> React.js</li>
+<li> Html</li>
+<li> CSS</li>
+
+
+## uses the map for the finding any area
+
+## live site of this web application 
+
+live :https://wizardly-bartik-864c11.netlify.app/
 
 In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ### `npm test`
 
